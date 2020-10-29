@@ -4,3 +4,21 @@ import objectBook;
 import objectGame;
 # Объекст Супермаркет
 import objectMarket;
+# Объекст Супермаркет
+import objectMarket;
+# Объекст Супермаркет
+import objectMarket;
+# Объекст Супермаркет
+import objectMarket;
+# Объекст Супермаркет
+import objectMarket;
+# Объекст Супермаркет
+import objectMarket;
+# Объекст Супермаркет
+import objectMarket;
+# Объекст Супермаркет
+import objectMarket;
+# Объекст Супермаркет
+import objectMarket;
+# Объекст Супермаркет
+import objectMarket;
