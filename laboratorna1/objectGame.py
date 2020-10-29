@@ -6,12 +6,12 @@ gamePlatform = "Игровые автоматы, консоли, онлайн-и
 nameOfFirstGame = "Nimatron"; # Название первой игры
 gameGenre = "Action, Action-adventure, Adventure, Ролевая игра, Симулятор, Спортивная игра, Стратегическая игра, Звуковая игра"; # Жанри компьютерних игр
 
-# Переменные типа float
-countOfAllGames = 187.2; # Количество игр в мире, в миллионах
+# Переменные типа float 
+countOfAllGames = 187.2; # Количество игр в мире, в миллионах 
 countOfMobileGameOnMarket = 47.2; # Количество мобильных игр на рынке, в % 
-gameSizeMiddle = 1.1; # Средний вес игры в Gb
+gameSizeMiddle = 1.1; # Средний вес игры в Gb 
 countOfPlayers = 976.5; # Количество людей, играюбщих в игры, в млн. 
-marketYearPart = 25.2; # Процент компьютерных игр на рынке
+marketYearPart = 25.2; # Процент компьютерных игр на рынке 
 
 # Переменные типа int
 yearFirstStrategy = 1992; # Год, когда вышла первая стратегия

@@ -1,6 +1,12 @@
+# ---------------------- Лабораторная работа 1 ----------------------
 # Объект Книга
-import objectBook;
+# from laboratorna1 import objectBook;
 # Объект Игра
-import objectGame;
+# from laboratorna1 import objectGame;
 # Объекст Супермаркет
-import objectMarket;
+# from laboratorna1 import objectMarket;
+# ---------------------- Лабораторная работа 2 ----------------------
+from laboratorna2 import vr;
+# ---------------------- Лабораторная работа 3 ----------------------
+
+# ---------------------- Лабораторная работа 4 ----------------------
